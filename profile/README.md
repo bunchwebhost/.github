@@ -1,6 +1,7 @@
-## Hi there 👋
-### Welcome to Bunch Webhost!
-### Bunch Webhost is a proposed webhosting business, which is still in early development and not available yet.
+<img src="https://raw.githubusercontent.com/bunchwebhost/.github/refs/heads/main/profile/logo-with-text.svg" width="400" />
+
+## The Efficient, Reliable, and Affordable SaaS Platform
+### We provide high‑performance servers with robust security, automated backups, and ease of use. Enjoy transparent pricing and responsive support, so you spend less time managing servers and more time building your business or hobby! 
 
 <!--
 
