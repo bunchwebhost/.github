@@ -1,16 +1,16 @@
 # 🌐 Bunch Webhost
 
-**The Efficient, Lightweight, and Affordable Web Host.**
+### The Efficient, Lightweight, and Affordable Web Host.
 
-Bunch Webhost is a lightweight and efficient web hosting service tailored for niche websites and low-resource applications
+Bunch Webhost is a **lightweight and efficient web hosting service** tailored for **niche websites and low-resource applications.**
 
 ## 🐙 Our Presence on GitHub
-GitHub is our primary platform for hosting, versioning, and maintaining the code behind Bunch Webhost.
+GitHub is our primary platform for **hosting, versioning, and maintaining** the code behind Bunch Webhost.
 
 We use GitHub to:
-- Manage our frontend and backend software
-- Track development and issues
-- Share documentation and changelogs
+- Manage our **frontend and backend software**
+- Track **development and issues**
+- Share **documentation and changelogs**
 
 <!--
 **Here are some ideas to get you started:**
